@@ -117,13 +117,12 @@ weighted avg       0.84      0.84      0.84       306
 
 ## Conclusion
 
-This project successfully demonstrates the use of a transformer-based architecture (DistilBERT) for classifying news articles. Further improvements can be made by:
+This project demonstrates the use of a transformer-based architecture (DistilBERT) for classifying news articles. Further improvements can be made by:
 - Increasing the number of training epochs.
 - Experimenting with different learning rates and weight decay.
 - Utilizing more advanced text preprocessing techniques.
 
-Feel free to explore the model and adjust parameters to achieve higher accuracy or faster training times!
+You're welcome to explore the model and adjust parameters to achieve higher accuracy or faster training times!
 
 ---
 
-Let me know if you'd like to add or modify any sections!
