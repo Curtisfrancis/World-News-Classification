@@ -19,7 +19,7 @@ For this project, a public dataset from the BBC is used, containing 2,225 news a
 - **Training Set**: 1,490 articles used to train the model.
 - **Test Set**: 735 articles used to evaluate the model's performance.
 
-## Objective
+## Objective(s)
 
 The primary objective is to develop a classification system that can categorize news articles based on their content. The system will be trained on the provided dataset and will aim to classify unseen articles into one of the five categories with high accuracy.
 
