@@ -4,7 +4,7 @@
 
 This project focuses on classifying news articles into specific categories using machine learning. Efficient classification of data is essential for organizing and managing large datasets, helping improve data analysis and ensuring accuracy. The primary objective of this project is to build a model that accurately classifies news articles into one of five categories.
 
-## Dataset
+## Datasets
 
 For this project, a public dataset from the BBC is used, containing 2,225 news articles. Each article is labeled under one of the following five categories:
 
